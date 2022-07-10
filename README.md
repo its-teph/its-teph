@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @its-teph
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Application Developmeny
+- I am experienced in: 
+- HTML, CSS & Javascript, Java, C and Python, SQL
 - 📫 How to reach me email me @ stephanie_susada@dlsu.edu.ph
 
 <!---
